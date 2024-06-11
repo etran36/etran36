@@ -2,7 +2,7 @@
 
 I am a data scientist with interests in sports, social good, healthcare, and tech. 
 
-In my free time, I'm a huge sports nerd (particularly ⚽ and 🏀), but I also enjoy playing board games and trivia, cooking, and indoor climbing.
+I'm a huge sports nerd (particularly ⚽ and 🏀), but I also enjoy playing board games and trivia, cooking, and indoor climbing.
 
 ### 💻 Tech Stack:
 Python, SQL, R
